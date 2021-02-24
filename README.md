@@ -73,8 +73,8 @@ Hope this helps!
 
 ## Table:
 
-|  #  |      Title      | Tag  |
-|-----|---------------- | ---- |
+|  #  |      Title      | Tag  | Imaes |
+|-----|---------------- | ---- | ----- |
 |  1  | [Airbnb](https://github.com/rajeevranjancom/System_Design/blob/main/Airbnb.png) | Airbnb |
 |  2  | [Amazon](https://github.com/rajeevranjancom/System_Design/blob/main/Amazon%20System%20Design.png) | Amazon |
 |  3  | [Facebook](https://github.com/rajeevranjancom/System_Design/blob/main/Facebook%20System%20Design.png) | Facebook |
