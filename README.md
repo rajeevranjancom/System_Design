@@ -5,7 +5,7 @@ Usually, the System Design interviews are lengthy and cover a lot of complex com
 <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Pic/vbnm.png" style="max-width: 100%;" alt="Welcome images" />
 
 
-# Drive the interview
+# Drive the interview:
 
 Make sure you are the one driving the interview and not your interviewer. This does not mean that you do not let them speak, but rather, you should be the one doing most of the talking, proactively calling out issues in your design before the interviewer points it out, handle the edge cases that the interviewer might poke you on etc.
 
@@ -45,10 +45,13 @@ Databases and Caches
 User interaction points
 Any other tools like a Message Queue, CDN, etc.
 
-# Walkthrough the design
+# Walkthrough the design:
+
 Once you have the whole diagram ready, go over the whole design, one use case at a time and explain your design to your interviewer at a very high level. Talk about why you have chosen a particular database here and why you have used a particular mode of communication like Sync/ Async etc. You can also get into an RPC vs HTTP kind of a conversation if you made a particular design choice. You should go over what kind of data replication strategy is being used in your databases, for example, would you use a Master-Slave or a Multi Master setup etc.
 
-# CAUTION: Do not go into the details like APIs, DB Schema etc right away unless the interviewer asks for it. Most people get lost in designing the APIs for just one system at this point and run out of time later on.
+# CAUTION:
+
+Do not go into the details like APIs, DB Schema etc right away unless the interviewer asks for it. Most people get lost in designing the APIs for just one system at this point and run out of time later on.
 Brownie Points: Most interviews do not have FRs and NFRs around analytics, but if your design covers that or leaves good enough scope for analytics, that elevates your solution a lot. 
 
 # Implementation:
@@ -61,7 +64,9 @@ APIs — Call out the APIs that this system exposes. Make sure you are using the
 API Protocols — You can cover what protocols are you exposing the APIs on. Most people choose REST APIs, but you can decide to use something more efficient like Thrift, Protobuf etc based on your use cases.
 Events — You can call out which events this particular service listens to, who produces that event, what payload comes in, what processing happens on that event etc.
 
-# DB Schema: Go over the DB Schema here. You can also get into SQL vs NoSQL debate or why have you chosen a particular database, if you did not go over the same earlier while talking about the high level design.
+# DB Schema: 
+
+Go over the DB Schema here. You can also get into SQL vs NoSQL debate or why have you chosen a particular database, if you did not go over the same earlier while talking about the high level design.
 If it’s a SQL, do talk about what indices you’ll have and how are you optimising your queries. In case of NoSQL, make sure you go over the consistency guarantees that the DB provides, can it cause any issues and the kind of queries you’ll run on that DB. Clearly call out the keys for key-value stores or the partition keys for a columnar store etc.
 
 # Handle Murphy’s law:
@@ -76,6 +81,7 @@ Hope this helps!
 
 |  #  |      Title      | Tag  | 
 |-----|---------------- | ---- |
+
 |  1  | [Airbnb](https://github.com/rajeevranjancom/System_Design/blob/main/Airbnb.png) | Airbnb |
  <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Airbnb.png" style="max-width: 100%;" alt="Welcome images" />
 
@@ -109,11 +115,11 @@ Hope this helps!
 |  11  | [Zoom](https://github.com/rajeevranjancom/System_Design/blob/main/Zoom%20System%20Design.png) | Zoom |
  <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Zoom%20System%20Design.png" style="max-width: 100%;" alt="Welcome images" />
 
-# System Design Cheatsheet
+# System Design Cheatsheet:
 
 > Picking the right architecture = Picking the right battles + Managing trade-offs
 
-## Basic Steps
+# Basic Steps:
 
 1) **Clarify and agree on the scope of the system**
 * **User cases** (description of sequences of events that, taken together, lead to a system doing something useful)
@@ -181,7 +187,7 @@ Hope this helps!
   <img src="http://lethain.com/static/blog/intro_arch/platform_layer.png" alt="Platform Layer"/>
 </p>
 	
-## Key topics for designing a system
+# Key topics for designing a system:
 
 1) **Concurrency** 
 * Do you understand threads, deadlock, and starvation? Do you know how to parallelize algorithms? Do you understand consistency and coherence?
@@ -202,7 +208,7 @@ Hope this helps!
 *  Are you thinking about how things can fail, especially in a distributed environment? Do know how to design a system to cope with network failures? Do you understand durability?
 
 
-## Web App System design considerations:
+# Web App System design considerations:
 * Security (CORS)
 * Using CDN
 	* A content delivery network (CDN) is a system of distributed servers (network) that deliver webpages and other Web content to a user based on the geographic locations of the user, the origin of the webpage and a content delivery server.
@@ -222,7 +228,7 @@ Hope this helps!
 * Responsive design
 * Browser compatibility
 
-## Working Components of Front-end Architecture
+# Working Components of Front-end Architecture:
 * Code
   * HTML5/WAI-ARIA
   * CSS/Sass Code standards and organization
