@@ -85,10 +85,10 @@ Hope this helps!
  <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Facebook%20System%20Design.png" style="max-width: 100%;" alt="Welcome images" />
 
 |  4  | [Google Maps](https://github.com/rajeevranjancom/System_Design/blob/main/Google%20Maps%20Design.png) | Google Maps |
- <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Airbnb.png" style="max-width: 100%;" alt="Welcome images" />
+ <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Google%20Maps%20Design.png" style="max-width: 100%;" alt="Welcome images" />
 
 |  5  | [Hotel Booking](https://github.com/rajeevranjancom/System_Design/blob/main/Hotel%20Booking%20System.png) | Hotel Booking |
- <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Airbnb.png" style="max-width: 100%;" alt="Welcome images" />
+ <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Hotel%20Booking%20System.png" style="max-width: 100%;" alt="Welcome images" />
 
 |  6  | [Notification Service](https://github.com/rajeevranjancom/System_Design/blob/main/Notification%20Service%20design.png) | Notification Service |
  <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Airbnb.png" style="max-width: 100%;" alt="Welcome images" />
