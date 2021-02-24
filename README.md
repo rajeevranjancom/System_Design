@@ -79,7 +79,7 @@ Hope this helps!
  <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Airbnb.png" style="max-width: 100%;" alt="Welcome images" />
 
 |  2  | [Amazon](https://github.com/rajeevranjancom/System_Design/blob/main/Amazon%20System%20Design.png) | Amazon |
- <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Amazon%20System%20Design.png;" style="max-width: 100%;" alt="Welcome images" />
+ <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Amazon%20System%20Design.png" style="max-width: 100%;" alt="Welcome images" />
 
 |  3  | [Facebook](https://github.com/rajeevranjancom/System_Design/blob/main/Facebook%20System%20Design.png) | Facebook |
  <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Facebook%20System%20Design.png" style="max-width: 100%;" alt="Welcome images" />
