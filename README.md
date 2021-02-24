@@ -1,6 +1,6 @@
 # System Design Interview Checklist: 
 
- <img src="https://github.com/rajeevranjancom/System_Design/tree/main/Pic" style="max-width: 100%;" alt="Welcome images" />
+ <img src="https://github.com/rajeevranjancom/System_Design/blob/main/Pic/vbnm.png" style="max-width: 100%;" alt="Welcome images" />
 
 Usually, the System Design interviews are lengthy and cover a lot of complex components. This makes it very easy to get lost in small things and miss out on the big picture. Therefore, it becomes very important to structure your interview in a way such that you can easily convey the whole picture without wasting time on anything which does not add value.
 
