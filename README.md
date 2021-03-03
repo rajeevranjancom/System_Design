@@ -446,7 +446,7 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
  7. CDN 
  8. Monetization
 
-[![logo](imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
+[![logo](https://github.com/rajeevranjancom/System_Design/blob/main/imgs/systemcycle.png)](https://github.com/checkcheckzz/system-design-interview)
 
 > How to prepare system design questions for an IT company
 
